@@ -5,7 +5,6 @@ var db = require('../lib/DataStore.js').store;
 var Model = require('../lib/Model.js');
 var User = require('../lib/User.js');
 var Account = require('../lib/Account.js');
-var Model = require('../lib/Model.js');
 var Message = require('../lib/Message.js');
 var Location = require('../lib/Location.js');
 
